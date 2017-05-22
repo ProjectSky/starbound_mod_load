@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by NotePad++.
-# User: Sky_Orc_Mm
+# User: ProjectSky
 # Date: 2017/5/22
 # Time: 18:12
 # UNIX Starbound Dedicated server mod install Script
